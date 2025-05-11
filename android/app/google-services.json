@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "685774497005",
+    "project_id": "ghodacare-844d6",
+    "storage_bucket": "ghodacare-844d6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685774497005:android:7366dfc1ffda8b06f898e4",
+        "android_client_info": {
+          "package_name": "com.example.ghodacare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJqXt51TRSlnkAHIyhoM3fCz8Ikudv3HY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
